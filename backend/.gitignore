@@ -1,9 +1,4 @@
 # --- Binários e Executáveis ---
-# O Go gera arquivos executáveis (geralmente sem extensão no Linux/Mac ou .exe no Windows)
-main
-main.exe
-app
-app.exe
 # Ignora qualquer arquivo executável gerado na pasta bin/ (se houver)
 bin/
 
