@@ -1,0 +1,33 @@
+# --- Binários e Executáveis ---
+# O Go gera arquivos executáveis (geralmente sem extensão no Linux/Mac ou .exe no Windows)
+main
+main.exe
+app
+app.exe
+# Ignora qualquer arquivo executável gerado na pasta bin/ (se houver)
+bin/
+
+# --- Configurações e Segredos (CRÍTICO) ---
+# Nunca suba seu arquivo .env com senhas reais!
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# --- Logs ---
+*.log
+npm-debug.log*
+
+# --- IDEs e Editores ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Sistema Operacional ---
+.DS_Store
+Thumbs.db
+
+# --- Testes ---
+coverage.out

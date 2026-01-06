@@ -1,0 +1,32 @@
+# --- Dependências (MUITO IMPORTANTE) ---
+# A pasta node_modules é gigante e recriável com 'npm install', nunca deve ir pro git
+node_modules/
+
+# --- Build de Produção ---
+# A pasta dist é gerada automaticamente pelo build
+dist/
+dist-ssr/
+
+# --- Configurações e Segredos ---
+.env
+.env.local
+.env.*.local
+
+# --- Logs ---
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# --- Editor e Sistema ---
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# --- Testes ---
+coverage/
