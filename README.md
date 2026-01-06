@@ -5,7 +5,6 @@
 <div align="center">
 
 ![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-success?style=for-the-badge)
-![License](https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge)
 
 <br>
 
