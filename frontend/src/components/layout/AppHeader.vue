@@ -11,7 +11,7 @@ const isActive = (path) => route.path === path;
     <div class="container">
       <div class="brand">
         <div class="logo-icon"><Terminal :size="20" /></div>
-        <span class="logo-text">Go-Chain_Turbo</span>
+        <span class="logo-text">Go-Chain</span>
       </div>
 
       <nav class="nav">
