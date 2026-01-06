@@ -2,6 +2,25 @@
 
 > **Inteligência Blockchain em Tempo Real.** Uma plataforma Full-Stack de alta performance para monitoramento, indexação e análise de transações ERC-20 na rede Ethereum.
 
+<div align="center">
+
+![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-success?style=for-the-badge)
+![License](https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge)
+
+<br>
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+
+<br>
+
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Pinia](https://img.shields.io/badge/pinia-%23F7D336.svg?style=for-the-badge&logo=pinia&logoColor=000)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+</div>
+
 ---
 
 ## 🎯 Sobre o Projeto
@@ -130,15 +149,6 @@ npm run dev
 ```
 
 *Acesse `localhost:5173` no seu navegador.*
-
----
-
-## 🔮 Roadmap & Melhorias Futuras
-
-* [ ] Implementar WebSockets para atualizações em tempo real (substituindo o Polling).
-* [ ] Containerização completa com Docker & Docker Compose.
-* [ ] Adicionar suporte a outras redes EVM (BSC, Polygon).
-* [ ] Testes Unitários e de Integração (Go Test & Vitest).
 
 ---
 
